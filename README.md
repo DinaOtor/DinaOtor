@@ -1,16 +1,47 @@
-## Hi there 👋
 
-<!--
-**DinaOtor/DinaOtor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hi there, I'm Dina! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Computer Engineering Student
+
+Passionate about Software Development,
+Problem Solving & Building Real-World Projects.
+
+</div>
+
+---
+
+### 👩‍💻 About Me
+
+- 🎓 Computer Engineering Student
+- 💡 Interested in Software Development and Technology
+- 🌱 Continuously learning and improving my skills
+- 🚀 Building projects to turn ideas into reality
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### 📂 Featured Projects
+
+**[Tiny Web Server](https://github.com/DinaOtor/tiny-web-server)**
+
+A Python socket-based web server featuring HTTP
+request handling, login sessions, and multilingual pages.
+
+### 📫 Connect With Me
+
+[GitHub](https://github.com/DinaOtor)
+
+---
+
+<div align="center">
+
+✨ Always Learning, Always Building ✨
+
+</div>
